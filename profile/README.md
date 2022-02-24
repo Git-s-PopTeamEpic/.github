@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥Git's PopTeamEpic Team Comp!🔥
+# 🔥Git's PopTeamEpic!🔥
 # Epic Members!
   
 | Name | RN | Role | Github Profile Link | Email |
