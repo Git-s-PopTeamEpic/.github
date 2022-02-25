@@ -6,7 +6,7 @@
 | Name | RN | Role | Github Profile Link | Email |
 | --- | --- | --- | --- | --- |
 | KuhakuNeko/Dimitris Kostadimas | 2019108 | Head Admin | [Link](https://github.com/KuhakuNeko) | p19kost2@ionio.gr |
-
+| Orfeas Labrou | 2019078 | Member | [Link]() | p19labr@ionio.gr |
 </div>
 
 <!--
