@@ -12,6 +12,9 @@
 | xar1sgeovlacp/ | 2019059 | Member | [Link](https://github.com/xar1sgeovlacp2019059) | p19vlac@ionio.gr |
 | p19kala/ | 2019017 | Member | [Link](https://github.com/p19kala) | p19kala@ionio.gr |
 | gordthrow/ | 2019136 | Member | [Link](https://github.com/gordthrow) | p19papa6@ionio.gr |
+
+## [Team's Webring](https://git-team-epic-webring.netlify.app/)
+
 </div>
 
 <!--
