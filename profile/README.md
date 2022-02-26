@@ -7,11 +7,12 @@
 | --- | --- | --- | --- | --- |
 | KuhakuNeko/Dimitris Kostadimas | 2019108 | Admin | [Git Link](https://github.com/KuhakuNeko) | p19kost2@ionio.gr |
 | Orfeaslambrou/Orfeas Labrou | 2019078 | Member | [Git Link](https://github.com/Orfeaslambrou) | p19labr@ionio.gr |
-| Geoter711/ | 2019145 | Member | [Git Link](https://github.com/Geoter711) | p19papa7@ionio.gr |
-| PeteSKK/ | 2019196 | Member | [Git Link](https://github.com/PeteSKK) | p19left@ionio.gr |
-| xar1sgeovlacp/ | 2019059 | Member | [Git Link](https://github.com/xar1sgeovlacp2019059) | p19vlac@ionio.gr |
-| p19kala/ | 2019017 | Member | [Git Link](https://github.com/p19kala) | p19kala@ionio.gr |
-| gordthrow/ | 2019136 | Member | [Git Link](https://github.com/gordthrow) | p19papa6@ionio.gr |
+| Geoter711/Georgios Papadopoulos | 2019145 | Member | [Git Link](https://github.com/Geoter711) | p19papa7@ionio.gr |
+| PeteSKK/Petros Leftsis | 2019196 | Member | [Git Link](https://github.com/PeteSKK) | p19left@ionio.gr |
+| xar1sgeovlacp/Xaralmpos Blaxos | 2019059 | Member | [Git Link](https://github.com/xar1sgeovlacp2019059) | p19vlac@ionio.gr |
+| p19kala/Alexandros Kalathas | 2019017 | Member | [Git Link](https://github.com/p19kala) | p19kala@ionio.gr |
+| gordthrow/Panagiotis Papadopoulos | 2019136 | Member | [Git Link](https://github.com/gordthrow) | p19papa6@ionio.gr |
+| alexpoulis/Alexandros Poulis | 2019128 | Member | [Git Link](https://github.com/alexpoulis) | p19poul1@ionio.gr |
 
 ## [Team's Webring](https://git-team-epic-webring.netlify.app/)
 
