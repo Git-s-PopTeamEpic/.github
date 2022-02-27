@@ -13,7 +13,7 @@
 | p19kala/Alexandros Kalathas | 2019017 | Member | [Git Link](https://github.com/p19kala) | p19kala@ionio.gr |
 | gordthrow/Panagiotis Papadopoulos | 2019136 | Member | [Git Link](https://github.com/gordthrow) | p19papa6@ionio.gr |
 | alexpoulis/Alexandros Poulis | 2019128 | Member | [Git Link](https://github.com/alexpoulis) | p19poul1@ionio.gr |
-| fireleaf22/Chatzidamos Ioanis | 2018079 | Member | [Git Link](https://github.com/fireleaf22) | p18chat@ionio.gr |
+| fireleaf22/Chatzidamos Ioannis | 2018079 | Member | [Git Link](https://github.com/fireleaf22) | p18chat@ionio.gr |
 
 ## [Team's Webring](https://git-team-epic-webring.netlify.app/)
 
